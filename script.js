@@ -1,0 +1,1 @@
+console.log("Hermes Salon Website Loaded");
